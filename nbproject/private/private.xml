@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/web/profile.jsp</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/src/java/com/diary/entities/Category.java</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/src/java/com/diary/dao/NotesDao.java</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/web/bodyLink.jsp</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/src/java/com/diary/servlets/EditServlet.java</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/web/normal_navBar.jsp</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/src/java/com/diary/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/web/show_notes.jsp</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/web/home.jsp</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/src/java/com/diary/servlets/AddNoteServlet.java</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/web/loadNotes.jsp</file>
+            <file>file:/C:/Users/vpate/Documents/NetBeansProjects/Dairy/src/java/com/diary/entities/Message.java</file>
+        </group>
+    </open-files>
+</project-private>

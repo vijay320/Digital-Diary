@@ -1,0 +1,17 @@
+
+#note-row_style {
+    margin-top: 30px;
+}
+
+#submit-note {
+    display: block;
+    margin: auto;
+}
+
+.primary-background{
+    background: #3d5afe!important;
+
+}
+.banner-background{
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 66% 96%, 28% 88%, 0 94%);
+}
