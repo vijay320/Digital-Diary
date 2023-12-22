@@ -48,7 +48,7 @@ Tables :
              ```
 ## Screenshots
 
-![App Screenshot](ScreenShotsAndVideo/index.png){:height="36px" width="36px"}
+![App Screenshot](ScreenShotsAndVideo/index.png){height="36px" width="36px"}
 ![App Screenshot](ScreenShotsAndVideo/signup.png)
 ![App Screenshot](ScreenShotsAndVideo/login.png)
 ![App Screenshot](ScreenShotsAndVideo/AddNotes.png)
