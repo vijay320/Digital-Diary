@@ -58,7 +58,7 @@ Tables :
 ![App Screenshot](ScreenShotsAndVideo/userProfileEdit.png)
 
 ## Video
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/X8SkwRLEeAI)
+[![Watch the video](https://youtu.be/X8SkwRLEeAI)]
 
 ## Features
 
