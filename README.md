@@ -51,7 +51,7 @@ Tables :
 ![App Screenshot](ScreenShotsAndVideo/index.png)
 ![App Screenshot](ScreenShotsAndVideo/signup.png)
 ![App Screenshot](ScreenShotsAndVideo/login.png)
-![App Screenshot](ScreenShotsAndVideo/AddNotes.png)
+![App Screenshot](ScreenShotsAndVideo/AddNotes.png=300)
 ![App Screenshot](ScreenShotsAndVideo/newAddedNote.png)
 ![App Screenshot](ScreenShotsAndVideo/ViewNote.png)
 ![App Screenshot](ScreenShotsAndVideo/userProfile.png)
