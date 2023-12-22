@@ -31,10 +31,10 @@ Tables :
                     pid (int)
                     pPic (String)
                     catId (int) 
-                    pDate (String)
+                    pDate (Timestamp)
                     pTitle (String)
                     pContent (String)
-                    userId (int) (String)
+                    userId (int)
 
             user
                     id (int)
@@ -43,7 +43,7 @@ Tables :
                     password (String)
                     gender (String)
                     about (String)
-                    rdate (String)
+                    rdate (Timestamp)
                     profile (String)
              ```
 ## Screenshots
