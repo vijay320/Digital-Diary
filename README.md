@@ -48,16 +48,32 @@ Tables :
              ```
 ## Screenshots
 
-![App Screenshot](ScreenShotsAndVideo/index.png){width=250px}
+Main Page
+![App Screenshot](ScreenShotsAndVideo/index.png)
+
+Sign UP Page
 ![App Screenshot](ScreenShotsAndVideo/signup.png)
+
+Log In Page
 ![App Screenshot](ScreenShotsAndVideo/login.png)
+
+Add Note Page
 ![App Screenshot](ScreenShotsAndVideo/AddNotes.png)
+
+Home Page
 ![App Screenshot](ScreenShotsAndVideo/newAddedNote.png)
+
+View Note Page
 ![App Screenshot](ScreenShotsAndVideo/ViewNote.png)
+
+User Profile Page
 ![App Screenshot](ScreenShotsAndVideo/userProfile.png)
+
+Edit User Profile Page
 ![App Screenshot](ScreenShotsAndVideo/userProfileEdit.png)
 
 ## Video
+Watch The Video for Demo
 [![Watch the video](ScreenShotsAndVideo/video.PNG)](https://youtu.be/X8SkwRLEeAI)
 
 ## Features
